@@ -5,7 +5,7 @@ public class Main {
         day1 day1 = new day1();
         day2 day2 = new day2();
         day3 day3 = new day3();
-        day4 day4 = new day4();
-        System.out.println(day4.partTwo());
+        day5 day5 = new day5();
+        System.out.println(day5.partTwo());
     }
 }
